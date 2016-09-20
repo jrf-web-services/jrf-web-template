@@ -1,2 +1,2 @@
 # jrf-web-template
-This is basic template for a new site. 
+This is a basic template for a new site. 
